@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', () => {
         // Semestre 2
         { id: 'IND-121', nombre: 'Álgebra Lineal', creditos: 8, semestre: 2, prerequisitos: ['IND-111'] },
         { id: 'IND-122', nombre: 'Cálculo II', creditos: 8, semestre: 2, prerequisitos: ['IND-112'] },
-        { id: 'IND-123', nombre: 'Química', creditos: 5, semestre: 2, prerequisitos: ['IND-113'] },
+        { id: 'IND-123', nombre: 'Química', creditos: 5, semestre: 2, prerequisitos: [] },
         { id: 'IND-124', nombre: 'Computac. I', creditos: 6, semestre: 2, prerequisitos: [] },
         { id: 'IFG-200', nombre: 'Inglés II', creditos: 3, semestre: 2, prerequisitos: ['IFG-100'] },
         // Semestre 3
