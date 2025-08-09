@@ -44,8 +44,8 @@ document.addEventListener('DOMContentLoaded', () => {
         { id: 'IND-414', nombre: 'Ingeniería Económica', creditos: 6, semestre: 7, prerequisitos: ['IND-323'] },
         { id: 'IND-415', nombre: 'Metodología Investigac.', creditos: 6, semestre: 7, prerequisitos: [] }, // Prerrequisito H1
         // Semestre 8
-        { id: 'IND-421', nombre: 'Gestión de Operaciones', creditos: 6, semestre: 8, prerequisitos: ['IND-411'] },
-        { id: 'IND-422', nombre: 'Control de Gestión', creditos: 6, semestre: 8, prerequisitos: ['IND-412'] },
+        { id: 'IND-421', nombre: 'Gestión de Operaciones', creditos: 4, semestre: 8, prerequisitos: ['IND-411'] },
+        { id: 'IND-422', nombre: 'Control de Gestión', creditos: 4, semestre: 8, prerequisitos: ['IND-412'] },
         { id: 'IND-423', nombre: 'Des. Personal y Liderazgo', creditos: 3, semestre: 8, prerequisitos: ['IND-413'] },
         { id: 'IND-424', nombre: 'Creatividad Prototipos Negocios', creditos: 4, semestre: 8, prerequisitos: ['IND-414'] },
         { id: 'IND-425', nombre: 'Módulo Integ. Lic. (Práctica 1)', creditos: 10, semestre: 8, prerequisitos: ['IND-411' , 'IND-412' , 'IND-413' , 'IND-414' , 'IND-415'] },
