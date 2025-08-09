@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', () => {
+a document.addEventListener('DOMContentLoaded', () => {
 
     const ramos = [
         // Semestre 1
